@@ -1,4 +1,6 @@
-nt main() {
+#include <stdio.h>
+
+int main() {
 
     // Desafio Super Trunfo
     // Nível: Aventureiro
